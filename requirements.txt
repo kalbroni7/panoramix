@@ -2,3 +2,4 @@ coloredlogs
 requests
 web3
 timeout_decorator
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
